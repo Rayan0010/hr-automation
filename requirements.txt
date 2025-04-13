@@ -1,0 +1,10 @@
+crewai
+python-dotenv
+chromadb
+pandas
+mistralai
+langchain-mistralai
+langchain-community
+fpdf
+streamlit
+
